@@ -2,7 +2,7 @@
 
 Grandmaster-style chess study tool. Enter a Chess.com username, load recent games, and get Stockfish analysis with move ratings.
 
-**Live demo:** YOUR-RENDER-LINK-HERE
+**Live demo:** [(https://chessturanga.onrender.com/)]
 
 ## Features
 - Load recent games from Chess.com by username
